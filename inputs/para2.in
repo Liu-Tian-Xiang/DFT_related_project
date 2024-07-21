@@ -1,0 +1,13 @@
+R =0.15 #0.15 The unit is nanometer.0.3                                                                                                 
+L =1     #1.8 
+N =0     #1.8 
+Ec = 2 # The energy cut off in unit of Fermi energy.
+rs= 3.01 # 3.25 The free electron's radius in Jellium model.
+BoxMag_R = 0.4 # The margine of Box.
+BoxMag = 0.4 # The margine of Box.
+erf_eigen = 0.001 # The error of eigen value.
+coulomb_expand_b_l =80 # The maxium of b parameter l expansion.6000
+coulomb_expand_b_n = 4 # The maxium of b parameter n expansion.300
+printmode=0
+Multcore=1
+CalculationMode=1
