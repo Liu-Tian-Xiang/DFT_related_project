@@ -1,4 +1,4 @@
-R =0.15 #0.15 The unit is nanometer.0.3                                                                                                 
+R =0.15 #0.15 The unit is nanometer.0.3
 L =1     #1.8 
 N =0     #1.8 
 Ec = 2 # The energy cut off in unit of Fermi energy.
