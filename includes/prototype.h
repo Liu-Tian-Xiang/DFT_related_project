@@ -11,9 +11,6 @@ extern std::vector<int> i_stack;
 extern "C" {
 #endif
 
-#include "liboct.h"
-#include "symbols.h"
-//double ylm(double x, double y, double z, int l, int m);
 #ifdef __cplusplus
 }
 #endif
