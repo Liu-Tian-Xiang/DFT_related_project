@@ -54,7 +54,6 @@ LIBOBJS= \
 	$(OBJDIR)/positive_contribution_two.o \
 	$(OBJDIR)/check_orthogonal.o \
 	$(OBJDIR)/display_rho.o \
-	$(OBJDIR)/python_draw.o \
 	$(OBJDIR)/basis_index.o \
 	$(OBJDIR)/bess.o \
 	$(OBJDIR)/bessel_integration.o \
