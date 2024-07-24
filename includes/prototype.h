@@ -6,7 +6,7 @@ typedef double (*Func)(int n_1,int l_1,int m);
 
 extern std::vector<int> i_stack;
 
-//octopus
+
 #ifdef __cplusplus
 extern "C" {
 #endif
@@ -14,7 +14,6 @@ extern "C" {
 #ifdef __cplusplus
 }
 #endif
-//
 
 extern inline double cos_half (int l)
 {
