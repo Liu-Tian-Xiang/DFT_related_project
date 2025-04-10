@@ -1,4 +1,4 @@
 # DFT_related_project
 Project Goal: <br />
-Calculate the electron properties of solid or small molecules based on density functional like self-consistent field method.
 
+Calculate the electronic properties of solids or small molecules using a density functional-based self-consistent method with different basis sets.
